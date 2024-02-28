@@ -1,0 +1,22 @@
+/* public/css/header.css */
+
+.header-container {
+    display: flex;
+    background-color: purple;
+}
+
+.logo img {
+    width: 100px; /* Adjust the width of the logo */
+    height: auto;
+}
+
+.header-text h1 {
+    font-size: 18px;
+    text-align: center; /* Căn giữa văn bản theo chiều ngang */
+}
+
+.header-text {
+    text-align: center; /* Căn giữa nội dung theo chiều ngang */
+    margin: 0 auto; /* Đặt margin auto để căn giữa theo chiều ngang */
+}
+
